@@ -6,7 +6,7 @@ Chat-App built using Nodejs and Express
 ![alt text](chat.png)
 
 # Description
- # initial requirements
+ ## Initial requirements
    *Installing NodeJs*
 
    curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
