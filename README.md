@@ -26,3 +26,8 @@ Chat-App built using Nodejs and Express
 6. Using the terminal run: node server
 
 7. Open the web browser and type : http://localhost:3000/
+
+
+## Heroku link
+
+http://lestchatpeople.herokuapp.com
