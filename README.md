@@ -3,7 +3,7 @@ Chat-App built using Nodejs and Express
 
 # Screenshot
 
-
+![alt text](chat.png)
 
 # Description
  ## Initial requirements
