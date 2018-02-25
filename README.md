@@ -21,7 +21,7 @@ Chat-App built using Nodejs and Express
 
 4. Using terminal, type : npm install (To create all node modules including express)
 
-5. Paste the files in the directory
+5. Paste the Github files in the directory
 
 6. Using the terminal run: node server
 
