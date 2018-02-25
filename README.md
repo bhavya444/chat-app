@@ -10,18 +10,19 @@ Chat-App built using Nodejs and Express
    *Installing NodeJs*
 
    curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+   
    sudo apt-get install -y nodejs
  
-1. create a empty directory(any name).
+1. Create an empty directory(any name).
 
-2. using terminal, type : npm init 
+2. Using terminal, type : npm init 
 
-3. create dependencies
+3. Create dependencies
 
-4. using terminal, type : npm install (To create all node modules including express)
+4. Using terminal, type : npm install (To create all node modules including express)
 
-5. paste the files in the directory
+5. Paste the files in the directory
 
 6. Using the terminal run: node server
 
-7. open the web browser and type : http://localhost:3000/
+7. Open the web browser and type : http://localhost:3000/
