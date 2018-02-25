@@ -30,4 +30,4 @@ Chat-App built using Nodejs and Express
 
 ## Heroku link
 
-http://letshatpeople.herokuapp.com
+http://letschatpeople.herokuapp.com
